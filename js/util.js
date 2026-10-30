@@ -41,7 +41,7 @@ export const btn = (text, path = '/tours', kind = '') =>
   `<a class="btn ${kind}" href="#${path}">${text}<span aria-hidden="true">↗</span></a>`;
 
 export const logo = () =>
-  `<a class="logo" href="#/" aria-label="HAVAS — главная"><img class="mark" src="assets/brand-mark.svg" alt="" aria-hidden="true" width="42" height="42"><span>HAVAS<small>UZBEKISTAN</small></span></a>`;
+  `<a class="logo" href="#/" aria-label="Havas Tour Service — главная"><img class="logo-img" src="assets/havas-logo.png" alt="Havas Tour Service" width="516" height="137"></a>`;
 
 export const chev =
   '<svg class="chev" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/></svg>';

@@ -1442,7 +1442,7 @@ export default {
     'are the intellectual property of Havas and are protected by law.',
   'Язык: Русский': 'Language: Русский',
   'CC BY-SA 4.0 · Шухрат Саъдиев': 'CC BY-SA 4.0 · Shukhrat Sadiev',
-  'HAVAS — главная': 'HAVAS — home',
+  'Havas Tour Service — главная': 'Havas Tour Service — home',
   'HAVAS — путешествия\nс вниманием к вам': 'HAVAS — journeys\nwith care for you',
   'Havas не несет ответственности за:': 'Havas is not liable for:',
   'HAVAS рассказывает о сотрудничестве с семейными производителями, поддержке ремесленников и обучении сотрудников принципам устойчивого туризма.':

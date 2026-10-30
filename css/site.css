@@ -5857,3 +5857,22 @@ body.mega-open .header-inner:before {
     padding: 8px 11px;
   }
 }
+
+/* Brand logo (assets/havas-logo.png, transparent background) */
+.logo {
+  gap: 0;
+}
+.logo .logo-img {
+  display: block;
+  width: auto;
+  height: 46px;
+}
+.footer-main .logo .logo-img,
+.home-footer .logo .logo-img {
+  height: 40px;
+}
+@media (max-width: 720px) {
+  .logo .logo-img {
+    height: 36px;
+  }
+}

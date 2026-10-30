@@ -1464,7 +1464,7 @@ export default {
     'Havas ning intellektual mulki hisoblanadi va qonun bilan himoyalangan.',
   'Язык: Русский': 'Til: Русский',
   'CC BY-SA 4.0 · Шухрат Саъдиев': 'CC BY-SA 4.0 · Shuhrat Saʼdiyev',
-  'HAVAS — главная': 'HAVAS — bosh sahifa',
+  'Havas Tour Service — главная': 'Havas Tour Service — bosh sahifa',
   'HAVAS — путешествия\nс вниманием к вам': 'HAVAS — sizga\neʼtibor bilan sayohatlar',
   'Havas не несет ответственности за:': 'Havas quyidagilar uchun javobgar emas:',
   'HAVAS рассказывает о сотрудничестве с семейными производителями, поддержке ремесленников и обучении сотрудников принципам устойчивого туризма.':

@@ -1464,7 +1464,7 @@ export default {
   'является интеллектуальной собственностью Havas и защищено законодательством.':
     'sind geistiges Eigentum von Havas und gesetzlich geschützt.',
   'Язык: Русский': 'Sprache: Русский',
-  'HAVAS — главная': 'HAVAS — Startseite',
+  'Havas Tour Service — главная': 'Havas Tour Service — Startseite',
   'HAVAS — путешествия\nс вниманием к вам': 'HAVAS — Reisen\nmit Aufmerksamkeit für Sie',
   'Havas не несет ответственности за:': 'Havas haftet nicht für:',
   'HAVAS рассказывает о сотрудничестве с семейными производителями, поддержке ремесленников и обучении сотрудников принципам устойчивого туризма.':
