@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-26",
+  "headingFont": "Playfair Display",
+  "interfaceFont": "Golos Text",
+  "desktop": [
+    {
+      "path": "/",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/tours",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/tour/samarkand",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/city/самарканд",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/custom",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/contacts",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/about",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/services",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/service/workshops",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/journal",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/article/first-trip",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    },
+    {
+      "path": "/mission/policies/privacy",
+      "cardOverflow": false,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "overflow": false
+    }
+  ],
+  "mobile": [
+    {
+      "path": "/",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/tours",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/tour/samarkand",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/city/каракалпакстан",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/custom",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/contacts",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/about",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/services",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/service/workshops",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/journal",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/article/first-trip",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    },
+    {
+      "path": "/mission/policies/privacy",
+      "cardOverflow": [],
+      "content": 375,
+      "width": 375
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "havas-local",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.cjs",
+    "lint": "eslint .",
+    "format": "prettier --write js server.cjs css *.html",
+    "i18n:check": "node scripts/i18n-extract.js",
+    "i18n:missing": "node scripts/i18n-extract.js --missing"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "globals": "^15.15.0",
+    "jsdom": "^25.0.1",
+    "prettier": "^3.9.10",
+    "sharp": "^0.34.5"
+  },
+  "type": "module"
+}

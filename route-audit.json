@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-26",
+  "originalRoutes": [
+    {
+      "path": "/",
+      "bad": false,
+      "overflow": false,
+      "title": "Узбекистан,\nкоторый останется\nс вами"
+    },
+    {
+      "path": "/about",
+      "bad": false,
+      "overflow": false,
+      "title": "Знакомим\nс Узбекистаном\nпо-настоящему"
+    },
+    {
+      "path": "/contacts",
+      "bad": false,
+      "overflow": false,
+      "title": "Начнём\nс разговора"
+    },
+    {
+      "path": "/privacy",
+      "bad": false,
+      "overflow": false,
+      "title": "Политика конфиденциальности"
+    },
+    {
+      "path": "/terms",
+      "bad": false,
+      "overflow": false,
+      "title": "Условия использования"
+    },
+    {
+      "path": "/tours",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/tours/uzbekistan",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/tours/kazakhstan",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/tours/kyrgyzstan",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/tours/tajikistan",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/tours/turkmenistan",
+      "bad": false,
+      "overflow": false,
+      "title": "Найдите своё\nпутешествие"
+    },
+    {
+      "path": "/city/ташкент",
+      "bad": false,
+      "overflow": false,
+      "title": "Ташкент"
+    },
+    {
+      "path": "/city/самарканд",
+      "bad": false,
+      "overflow": false,
+      "title": "Самарканд"
+    },
+    {
+      "path": "/city/бухара",
+      "bad": false,
+      "overflow": false,
+      "title": "Бухара"
+    },
+    {
+      "path": "/city/хива",
+      "bad": false,
+      "overflow": false,
+      "title": "Хива"
+    },
+    {
+      "path": "/city/фергана",
+      "bad": false,
+      "overflow": false,
+      "title": "Фергана"
+    },
+    {
+      "path": "/city/коканд",
+      "bad": false,
+      "overflow": false,
+      "title": "Коканд"
+    },
+    {
+      "path": "/city/андижан",
+      "bad": false,
+      "overflow": false,
+      "title": "Андижан"
+    },
+    {
+      "path": "/city/заамин",
+      "bad": false,
+      "overflow": false,
+      "title": "Заамин"
+    },
+    {
+      "path": "/city/каракалпакстан",
+      "bad": false,
+      "overflow": false,
+      "title": "Каракалпакстан"
+    },
+    {
+      "path": "/city/нукус",
+      "bad": false,
+      "overflow": false,
+      "title": "Нукус"
+    },
+    {
+      "path": "/city/термез",
+      "bad": false,
+      "overflow": false,
+      "title": "Термез"
+    },
+    {
+      "path": "/city/чимган",
+      "bad": false,
+      "overflow": false,
+      "title": "Чимган"
+    },
+    {
+      "path": "/packages",
+      "bad": false,
+      "overflow": false,
+      "title": "Больше городов.\nБольше открытий."
+    },
+    {
+      "path": "/packages/bukhara-samarkand-tashkent",
+      "bad": false,
+      "overflow": false,
+      "title": "Бухара — Самарканд — Ташкент"
+    },
+    {
+      "path": "/packages/urgench-khiva-bukhara-samarkand-tashkent-8d",
+      "bad": false,
+      "overflow": false,
+      "title": "Ургенч — Хива — Бухара — Самарканд — Ташкент"
+    },
+    {
+      "path": "/packages/samarkand-bukhara-7d",
+      "bad": false,
+      "overflow": false,
+      "title": "Самарканд — Бухара"
+    },
+    {
+      "path": "/packages/tashkent-khiva-bukhara-samarkand-8d",
+      "bad": false,
+      "overflow": false,
+      "title": "Ташкент — Хива — Бухара — Шахрисабз — Самарканд — Ташкент"
+    },
+    {
+      "path": "/mission",
+      "bad": false,
+      "overflow": false,
+      "title": "Оставлять впечатления.\nБеречь наследие."
+    },
+    {
+      "path": "/mission/professionalism",
+      "bad": false,
+      "overflow": false,
+      "title": "Профессионализм\nв устойчивости"
+    },
+    {
+      "path": "/mission/policies",
+      "bad": false,
+      "overflow": false,
+      "title": "Ответственность,\nзакреплённая в правилах"
+    },
+    {
+      "path": "/sustainability",
+      "bad": false,
+      "overflow": false,
+      "title": "Оставлять впечатления.\nБеречь наследие."
+    }
+  ],
+  "mobilePages": [
+    {
+      "path": "/",
+      "bad": false,
+      "content": 375,
+      "title": "Узбекистан, который останется с вами",
+      "width": 375
+    },
+    {
+      "path": "/tours",
+      "bad": false,
+      "content": 375,
+      "title": "Найдите своё\nпутешествие",
+      "width": 375
+    },
+    {
+      "path": "/city/каракалпакстан",
+      "bad": false,
+      "content": 375,
+      "title": "Каракалпакстан",
+      "width": 375
+    },
+    {
+      "path": "/tour/samarkand",
+      "bad": false,
+      "content": 375,
+      "title": "Самарканд за один день",
+      "width": 375
+    },
+    {
+      "path": "/custom",
+      "bad": false,
+      "content": 375,
+      "title": "Путешествие\nпо вашим правилам",
+      "width": 375
+    },
+    {
+      "path": "/contacts",
+      "bad": false,
+      "content": 375,
+      "title": "Начнём\nс разговора",
+      "width": 375
+    },
+    {
+      "path": "/services",
+      "bad": false,
+      "content": 375,
+      "title": "Позаботимся\nо деталях",
+      "width": 375
+    },
+    {
+      "path": "/service/workshops",
+      "bad": false,
+      "content": 375,
+      "title": "Прикоснитесь к живой традиции",
+      "width": 375
+    },
+    {
+      "path": "/packages/tashkent-khiva-bukhara-samarkand-8d",
+      "bad": false,
+      "content": 375,
+      "title": "Ташкент — Хива — Бухара — Шахрисабз — Самарканд — Ташкент",
+      "width": 375
+    },
+    {
+      "path": "/mission",
+      "bad": false,
+      "content": 375,
+      "title": "Оставлять впечатления. Беречь наследие.",
+      "width": 375
+    },
+    {
+      "path": "/mission/policies/privacy",
+      "bad": false,
+      "content": 375,
+      "title": "Ответственность, закреплённая в правилах",
+      "width": 375
+    },
+    {
+      "path": "/privacy",
+      "bad": false,
+      "content": 375,
+      "title": "Политика конфиденциальности",
+      "width": 375
+    },
+    {
+      "path": "/terms",
+      "bad": false,
+      "content": 375,
+      "title": "Условия использования",
+      "width": 375
+    },
+    {
+      "path": "/sitemap",
+      "bad": false,
+      "content": 375,
+      "title": "Все дороги начинаются здесь",
+      "width": 375
+    },
+    {
+      "path": "/reviews",
+      "bad": false,
+      "content": 375,
+      "title": "Истории наших гостей",
+      "width": 375
+    }
+  ],
+  "checks": [
+    "Все 32 прямых адреса исходного сайта",
+    "Чтение девяти документов",
+    "Сохранение даты и гостей при переходе к заявке",
+    "Локальная отправка формы контактов",
+    "Удаление тестовой заявки"
+  ]
+}
